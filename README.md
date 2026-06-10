@@ -1,6 +1,6 @@
 # QuickPay Admin
 
-[![CI](https://github.com/SucceedHQ/QUICKPAY-ADMIN/actions/workflows/ci.yml/badge.svg)](https://github.com/SucceedHQ/QUICKPAY-ADMIN/actions/workflows/ci.yml)
+[![CI](https://github.com/SucceedHQ-innovations/QUICKPAY-ADMIN/actions/workflows/ci.yml/badge.svg)](https://github.com/SucceedHQ-innovations/QUICKPAY-ADMIN/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue.svg)](https://www.typescriptlang.org)
 [![Vite](https://img.shields.io/badge/Vite-5.2-purple.svg)](https://vitejs.dev)
